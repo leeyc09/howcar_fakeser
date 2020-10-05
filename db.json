@@ -1,24 +1,46 @@
 {
   "carlist": [
     {
+      "isHeader":true,
+      "id": -1,
+      "maker":"국내",
+      "title": "국내"
+    },   
+    {
+      "isHeader":false,
       "id": 1,
       "maker":"현대",
-      "title": "아반떼"
+      "title": "현대"
     },
     {
+      "isHeader":false,
       "id": 2,
-      "maker":"현대",
-      "title": "그렌져"
+      "maker":"기아",
+      "title": "기아"
     },
     {
+      "isHeader":false,
       "id": 3,
-      "maker":"현대",
-      "title": "제네시스"
+      "maker":"르노삼성",
+      "title": "르노삼성"
     },
     {
+      "isHeader":false,
       "id": 4,
-      "maker":"현대",
-      "title": "쏘나타"
+      "maker":"쌍용",
+      "title": "쌍용"
+    },
+    {
+      "isHeader":false,
+      "id": 5,
+      "maker":"쉐보레",
+      "title": "쉐보레"
+    },
+    {
+      "isHeader":false,
+      "id": 6,
+      "maker":"제네시스",
+      "title": "제네시스"
     }
   ]
 }
